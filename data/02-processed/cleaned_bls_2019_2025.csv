@@ -15,9 +15,7 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 11-2021,Marketing Managers,263680.0,136850.0,149200.0,2019
 11-2022,Sales Managers,402600.0,126640.0,141690.0,2019
 11-2030,Public Relations and Fundraising Managers,79160.0,116180.0,132630.0,2019
-11-2030,Public Relations and Fundraising Managers,79160.0,116180.0,132630.0,2019
 11-3000,Operations Specialties Managers,1996160.0,120960.0,134550.0,2019
-11-3010,Administrative Services and Facilities Managers,307280.0,96940.0,106550.0,2019
 11-3010,Administrative Services and Facilities Managers,307280.0,96940.0,106550.0,2019
 11-3020,Computer and Information Systems Managers,433960.0,146360.0,156390.0,2019
 11-3021,Computer and Information Systems Managers,433960.0,146360.0,156390.0,2019
@@ -71,7 +69,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",17060.0,73740.0,97170.0,2019
 13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",17060.0,73740.0,97170.0,2019
 13-1020,Buyers and Purchasing Agents,421280.0,64380.0,69680.0,2019
-13-1020,Buyers and Purchasing Agents,421280.0,64380.0,69680.0,2019
 13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",301710.0,66540.0,68820.0,2019
 13-1031,"Claims Adjusters, Examiners, and Investigators",287960.0,66790.0,68940.0,2019
 13-1032,"Insurance Appraisers, Auto Damage",13750.0,63270.0,66240.0,2019
@@ -100,7 +97,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-2000,Financial Specialists,2756610.0,71950.0,83260.0,2019
 13-2010,Accountants and Auditors,1280700.0,71550.0,79520.0,2019
 13-2011,Accountants and Auditors,1280700.0,71550.0,79520.0,2019
-13-2020,Property Appraisers and Assessors,56320.0,57010.0,63610.0,2019
 13-2020,Property Appraisers and Assessors,56320.0,57010.0,63610.0,2019
 13-2030,Budget Analysts,51460.0,76540.0,80300.0,2019
 13-2031,Budget Analysts,51460.0,76540.0,80300.0,2019
@@ -261,7 +257,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 19-3094,Political Scientists,6010.0,122220.0,120260.0,2019
 19-3099,"Social Scientists and Related Workers, All Other",33690.0,83330.0,87690.0,2019
 19-4000,"Life, Physical, and Social Science Technicians",358740.0,48230.0,52340.0,2019
-19-4010,Agricultural and Food Science Technicians,21870.0,41230.0,44440.0,2019
 19-4010,Agricultural and Food Science Technicians,21870.0,41230.0,44440.0,2019
 19-4020,Biological Technicians,79530.0,45860.0,49110.0,2019
 19-4021,Biological Technicians,79530.0,45860.0,49110.0,2019
@@ -517,13 +512,11 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-1298,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",36500.0,75640.0,89060.0,2019
 29-2000,Health Technologists and Technicians,2902300.0,44380.0,47540.0,2019
 29-2010,Clinical Laboratory Technologists and Technicians,326020.0,53120.0,54780.0,2019
-29-2010,Clinical Laboratory Technologists and Technicians,326020.0,53120.0,54780.0,2019
 29-2031,Cardiovascular Technologists and Technicians,56110.0,57720.0,59600.0,2019
 29-2032,Diagnostic Medical Sonographers,72790.0,74320.0,75780.0,2019
 29-2033,Nuclear Medicine Technologists,18110.0,77950.0,80240.0,2019
 29-2034,Radiologic Technologists and Technicians,207360.0,60510.0,63120.0,2019
 29-2035,Magnetic Resonance Imaging Technologists,37900.0,73410.0,74270.0,2019
-29-2040,Emergency Medical Technicians and Paramedics,260600.0,35400.0,38830.0,2019
 29-2040,Emergency Medical Technicians and Paramedics,260600.0,35400.0,38830.0,2019
 29-2050,Health Practitioner Support Technologists and Technicians,803740.0,35610.0,37800.0,2019
 29-2051,Dietetic Technicians,29230.0,28400.0,31180.0,2019
@@ -545,7 +538,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-9098,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",54350.0,49850.0,58600.0,2019
 31-0000,Healthcare Support Occupations,6521790.0,28470.0,31010.0,2019
 31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",4683430.0,26380.0,27860.0,2019
-31-1120,Home Health and Personal Care Aides,3161500.0,25280.0,26440.0,2019
 31-1120,Home Health and Personal Care Aides,3161500.0,25280.0,26440.0,2019
 31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1521930.0,29680.0,30790.0,2019
 31-1131,Nursing Assistants,1419920.0,29660.0,30720.0,2019
@@ -577,7 +569,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 33-1012,First-Line Supervisors of Police and Detectives,121340.0,91090.0,94950.0,2019
 33-1020,First-Line Supervisors of Firefighting and Prevention Workers,69590.0,77800.0,82010.0,2019
 33-1021,First-Line Supervisors of Firefighting and Prevention Workers,69590.0,77800.0,82010.0,2019
-33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",82590.0,50490.0,53210.0,2019
 33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",82590.0,50490.0,53210.0,2019
 33-2000,Firefighting and Prevention Workers,340490.0,51330.0,55040.0,2019
 33-2010,Firefighters,324620.0,50850.0,54650.0,2019
@@ -704,7 +695,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 39-6011,Baggage Porters and Bellhops,39790.0,25580.0,28230.0,2019
 39-6012,Concierges,41670.0,31390.0,34290.0,2019
 39-7000,Tour and Travel Guides,48710.0,27600.0,30670.0,2019
-39-7010,Tour and Travel Guides,48710.0,27600.0,30670.0,2019
 39-7010,Tour and Travel Guides,48710.0,27600.0,30670.0,2019
 39-9010,Childcare Workers,561520.0,24230.0,25510.0,2019
 39-9011,Childcare Workers,561520.0,24230.0,25510.0,2019
@@ -969,7 +959,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,29750.0,39870.0,42760.0,2019
 47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,29750.0,39870.0,42760.0,2019
 47-4090,Miscellaneous Construction and Related Workers,32040.0,39720.0,44030.0,2019
-47-4090,Miscellaneous Construction and Related Workers,32040.0,39720.0,44030.0,2019
 47-5000,Extraction Workers,270390.0,44940.0,48180.0,2019
 47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",84880.0,48340.0,52320.0,2019
 47-5011,"Derrick Operators, Oil and Gas",12110.0,46990.0,48030.0,2019
@@ -1080,7 +1069,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 51-2051,Fiberglass Laminators and Fabricators,20010.0,35480.0,36970.0,2019
 51-2060,Timing Device Assemblers and Adjusters,1260.0,35080.0,38110.0,2019
 51-2061,Timing Device Assemblers and Adjusters,1260.0,35080.0,38110.0,2019
-51-2090,Miscellaneous Assemblers and Fabricators,1371920.0,32350.0,34800.0,2019
 51-2090,Miscellaneous Assemblers and Fabricators,1371920.0,32350.0,34800.0,2019
 51-3000,Food Processing Workers,802290.0,29320.0,31080.0,2019
 51-3010,Bakers,184990.0,27700.0,29630.0,2019
@@ -1331,9 +1319,7 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 11-2021,Marketing Managers,270200.0,142170.0,154470.0,2020
 11-2022,Sales Managers,390170.0,132290.0,147580.0,2020
 11-2030,Public Relations and Fundraising Managers,81110.0,118430.0,135580.0,2020
-11-2030,Public Relations and Fundraising Managers,81110.0,118430.0,135580.0,2020
 11-3000,Operations Specialties Managers,2012370.0,125040.0,138590.0,2020
-11-3010,Administrative Services and Facilities Managers,307620.0,98890.0,108120.0,2020
 11-3010,Administrative Services and Facilities Managers,307620.0,98890.0,108120.0,2020
 11-3020,Computer and Information Systems Managers,457290.0,151150.0,161730.0,2020
 11-3021,Computer and Information Systems Managers,457290.0,151150.0,161730.0,2020
@@ -1387,7 +1373,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",16240.0,75420.0,98070.0,2020
 13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",16240.0,75420.0,98070.0,2020
 13-1020,Buyers and Purchasing Agents,419920.0,66690.0,72370.0,2020
-13-1020,Buyers and Purchasing Agents,419920.0,66690.0,72370.0,2020
 13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",300380.0,68130.0,70560.0,2020
 13-1031,"Claims Adjusters, Examiners, and Investigators",287150.0,68270.0,70650.0,2020
 13-1032,"Insurance Appraisers, Auto Damage",13220.0,65550.0,68540.0,2020
@@ -1415,7 +1400,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-2000,Financial Specialists,2755470.0,73840.0,85510.0,2020
 13-2010,Accountants and Auditors,1274620.0,73560.0,81660.0,2020
 13-2011,Accountants and Auditors,1274620.0,73560.0,81660.0,2020
-13-2020,Property Appraisers and Assessors,55990.0,58650.0,65630.0,2020
 13-2020,Property Appraisers and Assessors,55990.0,58650.0,65630.0,2020
 13-2030,Budget Analysts,49260.0,78970.0,82690.0,2020
 13-2031,Budget Analysts,49260.0,78970.0,82690.0,2020
@@ -1576,7 +1560,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 19-3094,Political Scientists,6010.0,125350.0,124100.0,2020
 19-3099,"Social Scientists and Related Workers, All Other",34570.0,87260.0,91280.0,2020
 19-4000,"Life, Physical, and Social Science Technicians",363880.0,48440.0,53010.0,2020
-19-4010,Agricultural and Food Science Technicians,21940.0,41970.0,45920.0,2020
 19-4010,Agricultural and Food Science Technicians,21940.0,41970.0,45920.0,2020
 19-4020,Biological Technicians,80640.0,46340.0,49490.0,2020
 19-4021,Biological Technicians,80640.0,46340.0,49490.0,2020
@@ -1830,13 +1813,11 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-1298,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",36070.0,82420.0,97270.0,2020
 29-2000,Health Technologists and Technicians,2861180.0,45620.0,48990.0,2020
 29-2010,Clinical Laboratory Technologists and Technicians,326220.0,54180.0,55990.0,2020
-29-2010,Clinical Laboratory Technologists and Technicians,326220.0,54180.0,55990.0,2020
 29-2031,Cardiovascular Technologists and Technicians,55980.0,59100.0,60940.0,2020
 29-2032,Diagnostic Medical Sonographers,73920.0,75920.0,77790.0,2020
 29-2033,Nuclear Medicine Technologists,17510.0,79590.0,82080.0,2020
 29-2034,Radiologic Technologists and Technicians,206720.0,61900.0,64840.0,2020
 29-2035,Magnetic Resonance Imaging Technologists,39270.0,74690.0,75960.0,2020
-29-2040,Emergency Medical Technicians and Paramedics,257700.0,36650.0,40370.0,2020
 29-2040,Emergency Medical Technicians and Paramedics,257700.0,36650.0,40370.0,2020
 29-2050,Health Practitioner Support Technologists and Technicians,803920.0,36680.0,38970.0,2020
 29-2051,Dietetic Technicians,26430.0,30110.0,32920.0,2020
@@ -1858,7 +1839,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-9098,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",76670.0,51840.0,60900.0,2020
 31-0000,Healthcare Support Occupations,6440880.0,29960.0,32250.0,2020
 31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",4677760.0,28270.0,29320.0,2020
-31-1120,Home Health and Personal Care Aides,3211590.0,27080.0,28060.0,2020
 31-1120,Home Health and Personal Care Aides,3211590.0,27080.0,28060.0,2020
 31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1466170.0,30850.0,32090.0,2020
 31-1131,Nursing Assistants,1371050.0,30850.0,32050.0,2020
@@ -1890,7 +1870,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 33-1012,First-Line Supervisors of Police and Detectives,122310.0,92970.0,97180.0,2020
 33-1020,First-Line Supervisors of Firefighting and Prevention Workers,69000.0,78870.0,83170.0,2020
 33-1021,First-Line Supervisors of Firefighting and Prevention Workers,69000.0,78870.0,83170.0,2020
-33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",78860.0,52650.0,55210.0,2020
 33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",78860.0,52650.0,55210.0,2020
 33-2000,Firefighting and Prevention Workers,328260.0,53060.0,56800.0,2020
 33-2010,Firefighters,311350.0,52500.0,56360.0,2020
@@ -2017,7 +1996,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 39-6011,Baggage Porters and Bellhops,28440.0,27050.0,29060.0,2020
 39-6012,Concierges,36800.0,32380.0,35310.0,2020
 39-7000,Tour and Travel Guides,38030.0,29460.0,32200.0,2020
-39-7010,Tour and Travel Guides,38030.0,29460.0,32200.0,2020
 39-7010,Tour and Travel Guides,38030.0,29460.0,32200.0,2020
 39-9010,Childcare Workers,494360.0,25460.0,26790.0,2020
 39-9011,Childcare Workers,494360.0,25460.0,26790.0,2020
@@ -2282,7 +2260,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,29880.0,41120.0,43930.0,2020
 47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,29880.0,41120.0,43930.0,2020
 47-4090,Miscellaneous Construction and Related Workers,32050.0,39660.0,44180.0,2020
-47-4090,Miscellaneous Construction and Related Workers,32050.0,39660.0,44180.0,2020
 47-5000,Extraction Workers,226840.0,46020.0,49520.0,2020
 47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",68840.0,48820.0,53670.0,2020
 47-5011,"Derrick Operators, Oil and Gas",9350.0,47920.0,50280.0,2020
@@ -2393,7 +2370,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 51-2051,Fiberglass Laminators and Fabricators,18800.0,36950.0,38280.0,2020
 51-2060,Timing Device Assemblers and Adjusters,1000.0,36170.0,39430.0,2020
 51-2061,Timing Device Assemblers and Adjusters,1000.0,36170.0,39430.0,2020
-51-2090,Miscellaneous Assemblers and Fabricators,1258780.0,33550.0,35980.0,2020
 51-2090,Miscellaneous Assemblers and Fabricators,1258780.0,33550.0,35980.0,2020
 51-3000,Food Processing Workers,777500.0,30960.0,32640.0,2020
 51-3010,Bakers,168890.0,29400.0,31060.0,2020
@@ -2707,7 +2683,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",12480.0,78410.0,116410.0,2021
 13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",12480.0,78410.0,116410.0,2021
 13-1020,Buyers and Purchasing Agents,439020.0,63470.0,72540.0,2021
-13-1020,Buyers and Purchasing Agents,439020.0,63470.0,72540.0,2021
 13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",289580.0,64710.0,70850.0,2021
 13-1031,"Claims Adjusters, Examiners, and Investigators",278140.0,65080.0,70960.0,2021
 13-1032,"Insurance Appraisers, Auto Damage",11430.0,62680.0,68180.0,2021
@@ -2739,7 +2714,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-2000,Financial Specialists,2900840.0,77300.0,87350.0,2021
 13-2010,Accountants and Auditors,1318550.0,77250.0,83980.0,2021
 13-2011,Accountants and Auditors,1318550.0,77250.0,83980.0,2021
-13-2020,Property Appraisers and Assessors,58340.0,61340.0,70050.0,2021
 13-2020,Property Appraisers and Assessors,58340.0,61340.0,70050.0,2021
 13-2030,Budget Analysts,47440.0,79940.0,84240.0,2021
 13-2031,Budget Analysts,47440.0,79940.0,84240.0,2021
@@ -3175,7 +3149,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",26250.0,100300.0,113230.0,2021
 29-2000,Health Technologists and Technicians,2887210.0,46910.0,50300.0,2021
 29-2010,Clinical Laboratory Technologists and Technicians,318780.0,57800.0,56910.0,2021
-29-2010,Clinical Laboratory Technologists and Technicians,318780.0,57800.0,56910.0,2021
 29-2030,Diagnostic Related Technologists and Technicians,408390.0,67100.0,70780.0,2021
 29-2031,Cardiovascular Technologists and Technicians,55760.0,60570.0,62020.0,2021
 29-2032,Diagnostic Medical Sonographers,78640.0,77740.0,80680.0,2021
@@ -3213,7 +3186,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-9099,"Healthcare Practitioners and Technical Workers, All Other",44100.0,58750.0,64880.0,2021
 31-0000,Healthcare Support Occupations,6603680.0,29880.0,33330.0,2021
 31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",4765620.0,29620.0,30440.0,2021
-31-1120,Home Health and Personal Care Aides,3366480.0,29430.0,29260.0,2021
 31-1120,Home Health and Personal Care Aides,3366480.0,29430.0,29260.0,2021
 31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1399130.0,30290.0,33290.0,2021
 31-1131,Nursing Assistants,1314830.0,30310.0,33250.0,2021
@@ -3380,7 +3352,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 39-6011,Baggage Porters and Bellhops,20530.0,29120.0,30040.0,2021
 39-6012,Concierges,33560.0,35210.0,37520.0,2021
 39-7000,Tour and Travel Guides,30980.0,29780.0,33200.0,2021
-39-7010,Tour and Travel Guides,30980.0,29780.0,33200.0,2021
 39-7010,Tour and Travel Guides,30980.0,29780.0,33200.0,2021
 39-9000,Other Personal Care and Service Workers,1088670.0,29540.0,33260.0,2021
 39-9010,Childcare Workers,438520.0,27490.0,27680.0,2021
@@ -3646,7 +3617,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,28620.0,44810.0,45390.0,2021
 47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,28620.0,44810.0,45390.0,2021
 47-4090,Miscellaneous Construction and Related Workers,30920.0,39850.0,45370.0,2021
-47-4090,Miscellaneous Construction and Related Workers,30920.0,39850.0,45370.0,2021
 47-5000,Extraction Workers,183340.0,47600.0,51900.0,2021
 47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",51910.0,48740.0,56460.0,2021
 47-5011,"Derrick Operators, Oil and Gas",7880.0,47230.0,52140.0,2021
@@ -3763,7 +3733,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 51-2051,Fiberglass Laminators and Fabricators,17380.0,37650.0,40360.0,2021
 51-2060,Timing Device Assemblers and Adjusters,560.0,37780.0,44670.0,2021
 51-2061,Timing Device Assemblers and Adjusters,560.0,37780.0,44670.0,2021
-51-2090,Miscellaneous Assemblers and Fabricators,1328550.0,36590.0,37780.0,2021
 51-2090,Miscellaneous Assemblers and Fabricators,1328550.0,36590.0,37780.0,2021
 51-3000,Food Processing Workers,795640.0,30480.0,33830.0,2021
 51-3010,Bakers,181800.0,29750.0,32300.0,2021
@@ -4082,7 +4051,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",13130.0,82530.0,120100.0,2022
 13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",13130.0,82530.0,120100.0,2022
 13-1020,Buyers and Purchasing Agents,464880.0,67620.0,75140.0,2022
-13-1020,Buyers and Purchasing Agents,464880.0,67620.0,75140.0,2022
 13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",296700.0,72040.0,73320.0,2022
 13-1031,"Claims Adjusters, Examiners, and Investigators",285270.0,72230.0,73380.0,2022
 13-1032,"Insurance Appraisers, Auto Damage",11430.0,69380.0,71580.0,2022
@@ -4114,7 +4082,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-2000,Financial Specialists,3016910.0,78180.0,92290.0,2022
 13-2010,Accountants and Auditors,1402420.0,78000.0,86740.0,2022
 13-2011,Accountants and Auditors,1402420.0,78000.0,86740.0,2022
-13-2020,Property Appraisers and Assessors,59970.0,61560.0,80460.0,2022
 13-2020,Property Appraisers and Assessors,59970.0,61560.0,80460.0,2022
 13-2030,Budget Analysts,48430.0,82260.0,87680.0,2022
 13-2031,Budget Analysts,48430.0,82260.0,87680.0,2022
@@ -4557,7 +4524,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",30080.0,106230.0,123960.0,2022
 29-2000,Health Technologists and Technicians,2949600.0,48560.0,53230.0,2022
 29-2010,Clinical Laboratory Technologists and Technicians,333600.0,57380.0,59130.0,2022
-29-2010,Clinical Laboratory Technologists and Technicians,333600.0,57380.0,59130.0,2022
 29-2030,Diagnostic Related Technologists and Technicians,411120.0,74550.0,74700.0,2022
 29-2031,Cardiovascular Technologists and Technicians,55750.0,63020.0,65490.0,2022
 29-2032,Diagnostic Medical Sonographers,81080.0,81350.0,84410.0,2022
@@ -4595,7 +4561,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-9099,"Healthcare Practitioners and Technical Workers, All Other",41130.0,60160.0,68170.0,2022
 31-0000,Healthcare Support Occupations,6792310.0,33600.0,35560.0,2022
 31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",4889700.0,31450.0,32440.0,2022
-31-1120,Home Health and Personal Care Aides,3504230.0,30180.0,30930.0,2022
 31-1120,Home Health and Personal Care Aides,3504230.0,30180.0,30930.0,2022
 31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1385470.0,35760.0,36270.0,2022
 31-1131,Nursing Assistants,1310090.0,35760.0,36220.0,2022
@@ -4762,7 +4727,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 39-6011,Baggage Porters and Bellhops,26520.0,31510.0,33130.0,2022
 39-6012,Concierges,37600.0,35560.0,38270.0,2022
 39-7000,Tour and Travel Guides,41180.0,34440.0,37790.0,2022
-39-7010,Tour and Travel Guides,41180.0,34440.0,37790.0,2022
 39-7010,Tour and Travel Guides,41180.0,34440.0,37790.0,2022
 39-9000,Other Personal Care and Service Workers,1126460.0,31570.0,36080.0,2022
 39-9010,Childcare Workers,459460.0,28520.0,29570.0,2022
@@ -5029,7 +4993,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,27660.0,45610.0,47580.0,2022
 47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,27660.0,45610.0,47580.0,2022
 47-4090,Miscellaneous Construction and Related Workers,29880.0,44890.0,48620.0,2022
-47-4090,Miscellaneous Construction and Related Workers,29880.0,44890.0,48620.0,2022
 47-5000,Extraction Workers,195750.0,49330.0,53850.0,2022
 47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",59460.0,51050.0,57210.0,2022
 47-5011,"Derrick Operators, Oil and Gas",10950.0,51220.0,53770.0,2022
@@ -5146,7 +5109,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 51-2051,Fiberglass Laminators and Fabricators,21910.0,38110.0,41280.0,2022
 51-2060,Timing Device Assemblers and Adjusters,370.0,42290.0,46480.0,2022
 51-2061,Timing Device Assemblers and Adjusters,370.0,42290.0,46480.0,2022
-51-2090,Miscellaneous Assemblers and Fabricators,1454130.0,37280.0,40250.0,2022
 51-2090,Miscellaneous Assemblers and Fabricators,1454130.0,37280.0,40250.0,2022
 51-3000,Food Processing Workers,807880.0,35320.0,36300.0,2022
 51-3010,Bakers,205300.0,32780.0,34140.0,2022
@@ -5465,7 +5427,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",12870.0,84900.0,132810.0,2023
 13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",12870.0,84900.0,132810.0,2023
 13-1020,Buyers and Purchasing Agents,477980.0,71950.0,77850.0,2023
-13-1020,Buyers and Purchasing Agents,477980.0,71950.0,77850.0,2023
 13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",302450.0,75020.0,75760.0,2023
 13-1031,"Claims Adjusters, Examiners, and Investigators",293780.0,75050.0,75770.0,2023
 13-1032,"Insurance Appraisers, Auto Damage",8670.0,74520.0,75660.0,2023
@@ -5497,7 +5458,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-2000,Financial Specialists,3039480.0,80090.0,96460.0,2023
 13-2010,Accountants and Auditors,1435770.0,79880.0,90780.0,2023
 13-2011,Accountants and Auditors,1435770.0,79880.0,90780.0,2023
-13-2020,Property Appraisers and Assessors,62090.0,61630.0,76110.0,2023
 13-2020,Property Appraisers and Assessors,62090.0,61630.0,76110.0,2023
 13-2030,Budget Analysts,47310.0,84940.0,90880.0,2023
 13-2031,Budget Analysts,47310.0,84940.0,90880.0,2023
@@ -5936,7 +5896,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",31100.0,107990.0,123840.0,2023
 29-2000,Health Technologists and Technicians,3010670.0,51250.0,56950.0,2023
 29-2010,Clinical Laboratory Technologists and Technicians,334380.0,60780.0,62870.0,2023
-29-2010,Clinical Laboratory Technologists and Technicians,334380.0,60780.0,62870.0,2023
 29-2030,Diagnostic Related Technologists and Technicians,421410.0,78330.0,79710.0,2023
 29-2031,Cardiovascular Technologists and Technicians,55660.0,66170.0,70270.0,2023
 29-2032,Diagnostic Medical Sonographers,82780.0,84470.0,89020.0,2023
@@ -5974,7 +5933,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-9099,"Healthcare Practitioners and Technical Workers, All Other",36900.0,63630.0,70800.0,2023
 31-0000,Healthcare Support Occupations,7063530.0,36140.0,38220.0,2023
 31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",5122130.0,34570.0,35120.0,2023
-31-1120,Home Health and Personal Care Aides,3689350.0,33530.0,33380.0,2023
 31-1120,Home Health and Personal Care Aides,3689350.0,33530.0,33380.0,2023
 31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1432790.0,38140.0,39600.0,2023
 31-1131,Nursing Assistants,1351760.0,38200.0,39610.0,2023
@@ -6141,7 +6099,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 39-6011,Baggage Porters and Bellhops,28780.0,34840.0,36100.0,2023
 39-6012,Concierges,41020.0,37150.0,40230.0,2023
 39-7000,Tour and Travel Guides,46760.0,36060.0,40280.0,2023
-39-7010,Tour and Travel Guides,46760.0,36060.0,40280.0,2023
 39-7010,Tour and Travel Guides,46760.0,36060.0,40280.0,2023
 39-9000,Other Personal Care and Service Workers,1207740.0,34690.0,38340.0,2023
 39-9010,Childcare Workers,497450.0,30370.0,32070.0,2023
@@ -6408,7 +6365,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,27900.0,46910.0,49590.0,2023
 47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,27900.0,46910.0,49590.0,2023
 47-4090,Miscellaneous Construction and Related Workers,28930.0,47090.0,51670.0,2023
-47-4090,Miscellaneous Construction and Related Workers,28930.0,47090.0,51670.0,2023
 47-5000,Extraction Workers,212390.0,51780.0,56610.0,2023
 47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",69840.0,58100.0,60590.0,2023
 47-5011,"Derrick Operators, Oil and Gas",11510.0,58210.0,58330.0,2023
@@ -6525,7 +6481,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 51-2051,Fiberglass Laminators and Fabricators,20380.0,40200.0,43920.0,2023
 51-2060,Timing Device Assemblers and Adjusters,400.0,48840.0,52840.0,2023
 51-2061,Timing Device Assemblers and Adjusters,400.0,48840.0,52840.0,2023
-51-2090,Miscellaneous Assemblers and Fabricators,1489280.0,38920.0,42400.0,2023
 51-2090,Miscellaneous Assemblers and Fabricators,1489280.0,38920.0,42400.0,2023
 51-3000,Food Processing Workers,848630.0,36850.0,38220.0,2023
 51-3010,Bakers,220230.0,34950.0,35550.0,2023
@@ -6844,7 +6799,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",14220.0,96310.0,165600.0,2024
 13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",14220.0,96310.0,165600.0,2024
 13-1020,Buyers and Purchasing Agents,486900.0,75650.0,81720.0,2024
-13-1020,Buyers and Purchasing Agents,486900.0,75650.0,81720.0,2024
 13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",312810.0,76790.0,78720.0,2024
 13-1031,"Claims Adjusters, Examiners, and Investigators",305020.0,76790.0,78770.0,2024
 13-1032,"Insurance Appraisers, Auto Damage",7790.0,76650.0,77050.0,2024
@@ -6876,7 +6830,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-2000,Financial Specialists,3033120.0,82140.0,100090.0,2024
 13-2010,Accountants and Auditors,1448290.0,81680.0,93520.0,2024
 13-2011,Accountants and Auditors,1448290.0,81680.0,93520.0,2024
-13-2020,Property Appraisers and Assessors,59070.0,65420.0,77160.0,2024
 13-2020,Property Appraisers and Assessors,59070.0,65420.0,77160.0,2024
 13-2030,Budget Analysts,47170.0,87930.0,93920.0,2024
 13-2031,Budget Analysts,47170.0,87930.0,93920.0,2024
@@ -7313,7 +7266,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",30870.0,113730.0,128680.0,2024
 29-2000,Health Technologists and Technicians,3124620.0,54270.0,59310.0,2024
 29-2010,Clinical Laboratory Technologists and Technicians,343040.0,61890.0,65320.0,2024
-29-2010,Clinical Laboratory Technologists and Technicians,343040.0,61890.0,65320.0,2024
 29-2030,Diagnostic Related Technologists and Technicians,433560.0,80660.0,83760.0,2024
 29-2031,Cardiovascular Technologists and Technicians,61180.0,67260.0,72890.0,2024
 29-2032,Diagnostic Medical Sonographers,86460.0,89340.0,92550.0,2024
@@ -7351,7 +7303,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-9099,"Healthcare Practitioners and Technical Workers, All Other",36970.0,64030.0,73200.0,2024
 31-0000,Healthcare Support Occupations,7448010.0,37180.0,39650.0,2024
 31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",5464490.0,35940.0,36690.0,2024
-31-1120,Home Health and Personal Care Aides,3988140.0,34900.0,34990.0,2024
 31-1120,Home Health and Personal Care Aides,3988140.0,34900.0,34990.0,2024
 31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1476350.0,39470.0,41290.0,2024
 31-1131,Nursing Assistants,1388430.0,39530.0,41270.0,2024
@@ -7518,7 +7469,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 39-6011,Baggage Porters and Bellhops,31220.0,36020.0,36960.0,2024
 39-6012,Concierges,44200.0,37320.0,40770.0,2024
 39-7000,Tour and Travel Guides,49010.0,36660.0,43090.0,2024
-39-7010,Tour and Travel Guides,49010.0,36660.0,43090.0,2024
 39-7010,Tour and Travel Guides,49010.0,36660.0,43090.0,2024
 39-9000,Other Personal Care and Service Workers,1278640.0,35550.0,39230.0,2024
 39-9010,Childcare Workers,520180.0,32050.0,33140.0,2024
@@ -7785,7 +7735,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,29050.0,49140.0,52730.0,2024
 47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,29050.0,49140.0,52730.0,2024
 47-4090,Miscellaneous Construction and Related Workers,33530.0,48120.0,52910.0,2024
-47-4090,Miscellaneous Construction and Related Workers,33530.0,48120.0,52910.0,2024
 47-5000,Extraction Workers,212920.0,56020.0,59040.0,2024
 47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",68250.0,59660.0,63330.0,2024
 47-5011,"Derrick Operators, Oil and Gas",11040.0,62740.0,62490.0,2024
@@ -7902,7 +7851,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 51-2051,Fiberglass Laminators and Fabricators,18520.0,45760.0,47320.0,2024
 51-2060,Timing Device Assemblers and Adjusters,230.0,40790.0,42410.0,2024
 51-2061,Timing Device Assemblers and Adjusters,230.0,40790.0,42410.0,2024
-51-2090,Miscellaneous Assemblers and Fabricators,1457800.0,42210.0,44860.0,2024
 51-2090,Miscellaneous Assemblers and Fabricators,1457800.0,42210.0,44860.0,2024
 51-3000,Food Processing Workers,857260.0,38200.0,40090.0,2024
 51-3010,Bakers,231890.0,36650.0,37670.0,2024
@@ -8219,7 +8167,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",12620.0,82890.0,141580.0,2025
 13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",12620.0,82890.0,141580.0,2025
 13-1020,Buyers and Purchasing Agents,491430.0,77710.0,83770.0,2025
-13-1020,Buyers and Purchasing Agents,491430.0,77710.0,83770.0,2025
 13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",335790.0,78020.0,80420.0,2025
 13-1031,"Claims Adjusters, Examiners, and Investigators",324230.0,78000.0,80470.0,2025
 13-1032,"Insurance Appraisers, Auto Damage",11560.0,78240.0,78900.0,2025
@@ -8251,7 +8198,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 13-2000,Financial Specialists,3051310.0,84680.0,101120.0,2025
 13-2010,Accountants and Auditors,1449500.0,83680.0,94750.0,2025
 13-2011,Accountants and Auditors,1449500.0,83680.0,94750.0,2025
-13-2020,Property Appraisers and Assessors,57070.0,67960.0,75770.0,2025
 13-2020,Property Appraisers and Assessors,57070.0,67960.0,75770.0,2025
 13-2030,Budget Analysts,47160.0,91640.0,96370.0,2025
 13-2031,Budget Analysts,47160.0,91640.0,96370.0,2025
@@ -8707,7 +8653,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",28630.0,115210.0,127660.0,2025
 29-2000,Health Technologists and Technicians,3159280.0,58180.0,61910.0,2025
 29-2010,Clinical Laboratory Technologists and Technicians,332940.0,62930.0,67350.0,2025
-29-2010,Clinical Laboratory Technologists and Technicians,332940.0,62930.0,67350.0,2025
 29-2030,Diagnostic Related Technologists and Technicians,447490.0,83390.0,88070.0,2025
 29-2031,Cardiovascular Technologists and Technicians,62960.0,74310.0,76940.0,2025
 29-2032,Diagnostic Medical Sonographers,90160.0,96590.0,97240.0,2025
@@ -8745,7 +8690,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 29-9099,"Healthcare Practitioners and Technical Workers, All Other",35010.0,65790.0,76720.0,2025
 31-0000,Healthcare Support Occupations,7901670.0,38340.0,40800.0,2025
 31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",5842680.0,37070.0,37850.0,2025
-31-1120,Home Health and Personal Care Aides,4305810.0,35800.0,36120.0,2025
 31-1120,Home Health and Personal Care Aides,4305810.0,35800.0,36120.0,2025
 31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1536870.0,41970.0,42700.0,2025
 31-1131,Nursing Assistants,1448910.0,42260.0,42700.0,2025
@@ -8912,7 +8856,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 39-6011,Baggage Porters and Bellhops,28510.0,37080.0,38570.0,2025
 39-6012,Concierges,49240.0,38950.0,42510.0,2025
 39-7000,Tour and Travel Guides,53500.0,38120.0,43720.0,2025
-39-7010,Tour and Travel Guides,53500.0,38120.0,43720.0,2025
 39-7010,Tour and Travel Guides,53500.0,38120.0,43720.0,2025
 39-9000,Other Personal Care and Service Workers,1318510.0,36940.0,40980.0,2025
 39-9010,Childcare Workers,518910.0,34980.0,35030.0,2025
@@ -9179,7 +9122,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,30650.0,49880.0,53500.0,2025
 47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,30650.0,49880.0,53500.0,2025
 47-4090,Miscellaneous Construction and Related Workers,28380.0,49910.0,55130.0,2025
-47-4090,Miscellaneous Construction and Related Workers,28380.0,49910.0,55130.0,2025
 47-5000,Extraction Workers,211130.0,57320.0,59850.0,2025
 47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",66320.0,59730.0,63950.0,2025
 47-5011,"Derrick Operators, Oil and Gas",10590.0,58620.0,60210.0,2025
@@ -9296,7 +9238,6 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,YEAR
 51-2051,Fiberglass Laminators and Fabricators,16170.0,46880.0,49550.0,2025
 51-2060,Timing Device Assemblers and Adjusters,250.0,62620.0,56720.0,2025
 51-2061,Timing Device Assemblers and Adjusters,250.0,62620.0,56720.0,2025
-51-2090,Miscellaneous Assemblers and Fabricators,1405030.0,44650.0,46660.0,2025
 51-2090,Miscellaneous Assemblers and Fabricators,1405030.0,44650.0,46660.0,2025
 51-3000,Food Processing Workers,879430.0,38990.0,40980.0,2025
 51-3010,Bakers,236200.0,37160.0,38480.0,2025
