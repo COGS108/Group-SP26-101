@@ -69,10 +69,10 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 15-1232,Computer User Support Specialists,647330.0,52270.0,56550.0,25.13,False,False,2019,False,True
 15-1241,Computer Network Architects,152420.0,112690.0,115110.0,54.18,False,False,2019,False,True
 15-1244,Network and Computer Systems Administrators,354450.0,83510.0,88410.0,40.15,False,False,2019,False,True
-15-1245,Database Administrators and Architects,125460.0,93750.0,96110.0,45.07,False,False,2019,False,False
+15-1245,Database Administrators and Architects,125460.0,93750.0,96110.0,45.07,False,False,2019,False,True
 15-1251,Computer Programmers,199540.0,86550.0,92610.0,41.61,False,False,2019,False,True
-15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1406870.0,107510.0,111620.0,51.69,False,False,2019,False,False
-15-1257,Web Developers and Digital Interface Designers,148340.0,73760.0,82370.0,35.46,False,False,2019,False,False
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1406870.0,107510.0,111620.0,51.69,False,False,2019,False,True
+15-1257,Web Developers and Digital Interface Designers,148340.0,73760.0,82370.0,35.46,False,False,2019,False,True
 15-1299,"Computer Occupations, All Other",393160.0,88550.0,92410.0,42.57,False,False,2019,False,True
 15-2011,Actuaries,22260.0,108350.0,120970.0,52.09,False,False,2019,False,True
 15-2021,Mathematicians,2630.0,105030.0,107280.0,50.5,False,False,2019,False,True
@@ -846,10 +846,10 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 15-1232,Computer User Support Specialists,634820.0,52690.0,57000.0,25.33,False,False,2020,False,True
 15-1241,Computer Network Architects,159350.0,116780.0,119230.0,56.14,False,False,2020,False,True
 15-1244,Network and Computer Systems Administrators,339560.0,84810.0,89460.0,40.77,False,False,2020,False,True
-15-1245,Database Administrators and Architects,133630.0,98860.0,101090.0,47.53,False,False,2020,False,False
+15-1245,Database Administrators and Architects,133630.0,98860.0,101090.0,47.53,False,False,2020,False,True
 15-1251,Computer Programmers,178140.0,89190.0,95640.0,42.88,False,False,2020,False,True
-15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1476800.0,110140.0,114270.0,52.95,False,False,2020,False,False
-15-1257,Web Developers and Digital Interface Designers,156220.0,77200.0,85490.0,37.12,False,False,2020,False,False
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1476800.0,110140.0,114270.0,52.95,False,False,2020,False,True
+15-1257,Web Developers and Digital Interface Designers,156220.0,77200.0,85490.0,37.12,False,False,2020,False,True
 15-1299,"Computer Occupations, All Other",362580.0,92870.0,96740.0,44.65,False,False,2020,False,True
 15-2011,Actuaries,22480.0,111030.0,123180.0,53.38,False,False,2020,False,True
 15-2021,Mathematicians,2460.0,110860.0,112530.0,53.3,False,False,2020,False,True
@@ -1628,14 +1628,8 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 15-1231,Computer Network Support Specialists,176200.0,62760.0,71350.0,30.17,False,False,2021,False,True
 15-1232,Computer User Support Specialists,654310.0,49770.0,57650.0,23.93,False,False,2021,False,True
 15-1241,Computer Network Architects,168830.0,120520.0,120650.0,57.94,False,False,2021,False,True
-15-1242,Database Administrators,85870.0,96710.0,96550.0,46.5,False,False,2021,False,False
-15-1243,Database Architects,50440.0,123430.0,121840.0,59.34,False,False,2021,False,False
 15-1244,Network and Computer Systems Administrators,316760.0,80600.0,91250.0,38.75,False,False,2021,False,True
 15-1251,Computer Programmers,152610.0,93000.0,96650.0,44.71,False,False,2021,False,True
-15-1252,Software Developers,1364180.0,120730.0,120990.0,58.05,False,False,2021,False,False
-15-1253,Software Quality Assurance Analysts and Testers,190120.0,98220.0,97710.0,47.22,False,False,2021,False,False
-15-1254,Web Developers,84820.0,77030.0,81320.0,37.03,False,False,2021,False,False
-15-1255,Web and Digital Interface Designers,82380.0,79890.0,95460.0,38.41,False,False,2021,False,False
 15-1299,"Computer Occupations, All Other",370190.0,95270.0,98180.0,45.8,False,False,2021,False,True
 15-2011,Actuaries,23040.0,105900.0,125300.0,50.91,False,False,2021,False,True
 15-2021,Mathematicians,1770.0,108100.0,112430.0,51.97,False,False,2021,False,True
@@ -2435,14 +2429,8 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 15-1231,Computer Network Support Specialists,168920.0,68050.0,76060.0,32.72,False,False,2022,False,True
 15-1232,Computer User Support Specialists,696830.0,57890.0,61580.0,27.83,False,False,2022,False,True
 15-1241,Computer Network Architects,173920.0,126900.0,129490.0,61.01,False,False,2022,False,True
-15-1242,Database Administrators,80520.0,99890.0,102530.0,48.03,False,False,2022,False,False
-15-1243,Database Architects,62470.0,134870.0,136540.0,64.84,False,False,2022,False,False
 15-1244,Network and Computer Systems Administrators,325930.0,90520.0,97160.0,43.52,False,False,2022,False,True
 15-1251,Computer Programmers,132740.0,97800.0,102790.0,47.02,False,False,2022,False,True
-15-1252,Software Developers,1534790.0,127260.0,132930.0,61.18,False,False,2022,False,False
-15-1253,Software Quality Assurance Analysts and Testers,196420.0,99620.0,105750.0,47.89,False,False,2022,False,False
-15-1254,Web Developers,88620.0,78580.0,87580.0,37.78,False,False,2022,False,False
-15-1255,Web and Digital Interface Designers,97350.0,83240.0,101740.0,40.02,False,False,2022,False,False
 15-1299,"Computer Occupations, All Other",416320.0,98740.0,104660.0,47.47,False,False,2022,False,True
 15-2011,Actuaries,25010.0,113990.0,127580.0,54.8,False,False,2022,False,True
 15-2021,Mathematicians,2070.0,112110.0,113860.0,53.9,False,False,2022,False,True
@@ -3249,14 +3237,8 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 15-1231,Computer Network Support Specialists,158720.0,71530.0,78640.0,34.39,False,False,2023,False,True
 15-1232,Computer User Support Specialists,689700.0,59240.0,63640.0,28.48,False,False,2023,False,True
 15-1241,Computer Network Architects,174100.0,129840.0,133930.0,62.42,False,False,2023,False,True
-15-1242,Database Administrators,76140.0,101510.0,104810.0,48.8,False,False,2023,False,False
-15-1243,Database Architects,59920.0,134700.0,137030.0,64.76,False,False,2023,False,False
 15-1244,Network and Computer Systems Administrators,323020.0,95360.0,100580.0,45.84,False,False,2023,False,True
 15-1251,Computer Programmers,120370.0,99700.0,107750.0,47.94,False,False,2023,False,True
-15-1252,Software Developers,1656880.0,132270.0,138110.0,63.59,False,False,2023,False,False
-15-1253,Software Quality Assurance Analysts and Testers,203040.0,101800.0,108460.0,48.94,False,False,2023,False,False
-15-1254,Web Developers,85350.0,84960.0,95570.0,40.84,False,False,2023,False,False
-15-1255,Web and Digital Interface Designers,111060.0,98540.0,108820.0,47.37,False,False,2023,False,False
 15-1299,"Computer Occupations, All Other",437170.0,104920.0,112430.0,50.44,False,False,2023,False,True
 15-2011,Actuaries,25470.0,120000.0,132500.0,57.69,False,False,2023,False,True
 15-2021,Mathematicians,2220.0,116440.0,119770.0,55.98,False,False,2023,False,True
@@ -4060,14 +4042,8 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 15-1231,Computer Network Support Specialists,146450.0,73340.0,79610.0,35.26,False,False,2024,False,True
 15-1232,Computer User Support Specialists,697210.0,60340.0,64990.0,29.01,False,False,2024,False,True
 15-1241,Computer Network Architects,177010.0,130390.0,135890.0,62.69,False,False,2024,False,True
-15-1242,Database Administrators,73180.0,104620.0,107440.0,50.3,False,False,2024,False,False
-15-1243,Database Architects,64770.0,135980.0,142620.0,65.37,False,False,2024,False,False
 15-1244,Network and Computer Systems Administrators,318570.0,96800.0,101190.0,46.54,False,False,2024,False,True
 15-1251,Computer Programmers,109870.0,98670.0,103640.0,47.44,False,False,2024,False,True
-15-1252,Software Developers,1654440.0,133080.0,144570.0,63.98,False,False,2024,False,False
-15-1253,Software Quality Assurance Analysts and Testers,199800.0,102610.0,110260.0,49.33,False,False,2024,False,False
-15-1254,Web Developers,78860.0,90930.0,98790.0,43.72,False,False,2024,False,False
-15-1255,Web and Digital Interface Designers,111400.0,98090.0,111450.0,47.16,False,False,2024,False,False
 15-1299,"Computer Occupations, All Other",439380.0,108970.0,116700.0,52.39,False,False,2024,False,True
 15-2011,Actuaries,28340.0,125770.0,134990.0,60.47,False,False,2024,False,True
 15-2021,Mathematicians,2220.0,121680.0,122520.0,58.5,False,False,2024,False,True
@@ -4868,14 +4844,8 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 15-1231,Computer Network Support Specialists,146190.0,76220.0,81870.0,36.64,False,False,2025,False,True
 15-1232,Computer User Support Specialists,717190.0,61860.0,67330.0,29.74,False,False,2025,False,True
 15-1241,Computer Network Architects,179740.0,134050.0,139580.0,64.45,False,False,2025,False,True
-15-1242,Database Administrators,69990.0,104620.0,110090.0,50.3,False,False,2025,False,False
-15-1243,Database Architects,67140.0,139500.0,144440.0,67.07,False,False,2025,False,False
 15-1244,Network and Computer Systems Administrators,314340.0,99130.0,103680.0,47.66,False,False,2025,False,True
 15-1251,Computer Programmers,92230.0,100390.0,105170.0,48.26,False,False,2025,False,True
-15-1252,Software Developers,1687890.0,135980.0,148100.0,65.38,False,False,2025,False,False
-15-1253,Software Quality Assurance Analysts and Testers,186740.0,104300.0,111490.0,50.14,False,False,2025,False,False
-15-1254,Web Developers,70190.0,92650.0,98770.0,44.54,False,False,2025,False,False
-15-1255,Web and Digital Interface Designers,113330.0,104000.0,117490.0,50.0,False,False,2025,False,False
 15-1299,"Computer Occupations, All Other",435370.0,116580.0,122230.0,56.05,False,False,2025,False,True
 15-2011,Actuaries,26670.0,130000.0,141480.0,62.5,False,False,2025,False,True
 15-2021,Mathematicians,2030.0,126710.0,129260.0,60.92,False,False,2025,False,True
@@ -5618,3 +5588,18 @@ OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,H_MEDIAN,A_MEDIAN_TOPCODED,A_MEDIAN_S
 53-7081,Refuse and Recyclable Material Collectors,147240.0,49690.0,52820.0,23.89,False,False,2025,False,True
 53-7121,"Tank Car, Truck, and Ship Loaders",10700.0,58870.0,59970.0,28.3,False,False,2025,False,True
 53-7199,"Material Moving Workers, All Other",23480.0,41800.0,45640.0,20.1,False,False,2025,False,True
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1554300.0,117976.60541722963,118142.41999613974,56.72528816830728,False,False,2021,False,True
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1731210.0,124124.01487976618,129846.20565962535,59.672140294938224,False,False,2022,False,True
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1859920.0,128943.7124177384,134873.2285259581,61.99071831046496,False,False,2023,False,True
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1854240.0,129796.76482008802,140872.9931400466,62.40141793942531,False,False,2024,False,True
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1874630.0,132824.2182190619,144453.11960226818,63.86187770386689,False,False,2025,False,True
+15-1257,Web Developers and Digital Interface Designers,167200.0,78439.13157894737,88286.82535885168,37.70993062200957,False,False,2021,False,True
+15-1257,Web Developers and Digital Interface Designers,185970.0,81019.3773189224,94992.35683174705,38.95257622197129,False,False,2022,False,True
+15-1257,Web Developers and Digital Interface Designers,196410.0,92638.80861463265,103062.21017259813,44.5323873529861,False,False,2023,False,True
+15-1257,Web Developers and Digital Interface Designers,190260.0,95122.28424261537,106202.61431725007,45.734170083044255,False,False,2024,False,True
+15-1257,Web Developers and Digital Interface Designers,183520.0,99659.02081517,110330.25283347863,47.911740409764604,False,False,2025,False,True
+15-1245,Database Administrators and Architects,136310.0,106597.43892597755,105908.28332477441,51.25129924436945,False,False,2021,False,True
+15-1245,Database Administrators and Architects,142990.0,115172.19176166166,117388.41457444576,55.374014966081546,False,False,2022,False,True
+15-1245,Database Administrators and Architects,136060.0,116126.67499632515,118999.4928707923,55.828687343818906,False,False,2023,False,True
+15-1245,Database Administrators and Architects,137950.0,119344.08263863719,123957.64117433853,57.37563537513592,False,False,2024,False,True
+15-1245,Database Administrators and Architects,137130.0,121697.54101947058,126908.04856705316,58.51073288120761,False,False,2025,False,True
